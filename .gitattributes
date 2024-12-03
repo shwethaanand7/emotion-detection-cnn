@@ -1,0 +1,5 @@
+# Set all text files to LF
+* text=auto eol=lf
+
+# Handle specific file types
+*.ipynb eol=lf
